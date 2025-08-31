@@ -16,8 +16,8 @@ Thank you for your interest in contributing to this Discord bot! This document p
 
 1. **Fork and clone the repository**
    ```bash
-   git clone https://github.com/yourusername/discord-moderation-bot.git
-   cd discord-moderation-bot
+   git clone https://github.com/nurAlex214/Discord-Moderation-Bot.git
+   cd Discord-Moderation-Bot
    ```
 
 2. **Create a virtual environment**
@@ -235,3 +235,4 @@ By contributing to this project, you agree that your contributions will be licen
 ---
 
 **Thank you for contributing to make this Discord bot better! 🚀**
+
