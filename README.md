@@ -74,8 +74,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/discord-moderation-bot.git
-   cd discord-moderation-bot
+   git clone https://github.com/NurAlex214/Discord-Moderation-Bot.git
+   cd Discord-Moderation-Bot
    ```
 
 2. **Install dependencies**
@@ -298,3 +298,4 @@ If this bot helped you, consider:
 *Last Updated: August 2025*
 
 </div>
+
