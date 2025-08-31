@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "prefix": "!",
+    "owner_ids": [],
+    "log_channel": null
+}
