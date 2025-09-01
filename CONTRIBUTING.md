@@ -223,7 +223,7 @@ Include the following information:
 
 ## 🙋‍♂️ Getting Help
 
-- **Discord Server**: Join our development Discord (if available)
+- **ADD ME**: alexistcooked
 - **Issues**: Open an issue for bugs or questions
 - **Discussions**: Use GitHub Discussions for general questions
 - **Documentation**: Check existing docs and command reference
@@ -235,4 +235,5 @@ By contributing to this project, you agree that your contributions will be licen
 ---
 
 **Thank you for contributing to make this Discord bot better! 🚀**
+
 
